@@ -6,7 +6,7 @@ import java.util.Random;
 public class App {
     public static void main(String[] args) {
 
-        int tam = 1000;
+        int tam = 100000;
 
         int[] vetorDesord = new int[tam];
         Random rand = new Random();

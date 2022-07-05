@@ -1,0 +1,293 @@
+Igor Costa de Lima
+5ºP - CC
+Estrutura de Dados
+
+
+Execução Algoritimo de ordenação:
+
+              Tamanho do Vetor: 10
+========================================================
+Algoritmo Bolha    
+Tempo de execução: 0,001 ms
+
+========================================================
+Algoritmo Seletion
+Tempo de execução: 0,001 ms
+
+========================================================
+Algoritmo Inserção
+Tempo de execução: 0,001 ms
+
+========================================================
+Algoritmo quickSort
+Tempo de execução: 0,002 ms
+
+========================================================
+Algoritmo MergeSort
+Tempo de execução: 0,000 ms
+
+========================================================
+
+
+
+              Tamanho do Vetor: 100
+========================================================
+Algoritmo Bolha    
+Tempo de execução: 0,002 ms
+
+========================================================
+Algoritmo Seletion
+Tempo de execução: 0,000 ms
+
+========================================================
+Algoritmo Inserção
+Tempo de execução: 0,000 ms
+
+========================================================
+Algoritmo quickSort
+Tempo de execução: 0,001 ms
+
+========================================================
+Algoritmo MergeSort
+Tempo de execução: 0,000 ms
+
+========================================================
+
+
+              Tamanho do Vetor: 500
+========================================================
+Algoritmo Bolha
+Tempo de execução: 0,006 ms
+
+========================================================
+Algoritmo Seletion
+Tempo de execução: 0,003 ms
+
+========================================================
+Algoritmo Inserção
+Tempo de execução: 0,006 ms
+
+========================================================
+Algoritmo quickSort
+Tempo de execução: 0,002 ms
+
+========================================================
+Algoritmo MergeSort
+Tempo de execução: 0,000 ms
+
+========================================================
+
+              Tamanho do Vetor: 1000
+========================================================
+Algoritmo Bolha
+Tempo de execução: 0,018 ms
+
+========================================================
+Algoritmo Seletion
+Tempo de execução: 0,007 ms
+
+========================================================
+Algoritmo Inserção
+Tempo de execução: 0,005 ms
+
+========================================================
+Algoritmo quickSort
+Tempo de execução: 0,003 ms
+
+========================================================
+Algoritmo MergeSort
+Tempo de execução: 0,001 ms
+
+========================================================
+
+
+              Tamanho do Vetor: 1500
+========================================================
+Algoritmo Bolha
+Tempo de execução: 0,022 ms
+
+========================================================
+Algoritmo Seletion
+Tempo de execução: 0,011 ms
+
+========================================================
+Algoritmo Inserção
+Tempo de execução: 0,005 ms
+
+========================================================
+Algoritmo quickSort
+Tempo de execução: 0,003 ms
+
+========================================================
+Algoritmo MergeSort
+Tempo de execução: 0,002 ms
+
+========================================================
+
+
+              Tamanho do Vetor: 5000
+========================================================
+Algoritmo Bolha
+Tempo de execução: 0,057 ms
+
+========================================================
+Algoritmo Seletion
+Tempo de execução: 0,027 ms
+
+========================================================
+Algoritmo Inserção
+Tempo de execução: 0,029 ms
+
+========================================================
+Algoritmo quickSort
+Tempo de execução: 0,002 ms
+
+========================================================
+Algoritmo MergeSort
+Tempo de execução: 0,002 ms
+
+========================================================
+
+
+              Tamanho do Vetor: 5500
+========================================================
+Algoritmo Bolha
+Tempo de execução: 0,078 ms
+
+========================================================
+Algoritmo Seletion
+Tempo de execução: 0,029 ms
+
+========================================================
+Algoritmo Inserção
+Tempo de execução: 0,033 ms
+
+========================================================
+Algoritmo quickSort
+Tempo de execução: 0,003 ms
+
+========================================================
+Algoritmo MergeSort
+Tempo de execução: 0,004 ms
+
+========================================================
+
+
+              Tamanho do Vetor: 10000
+========================================================
+Algoritmo Bolha
+Tempo de execução: 0,173 ms
+
+========================================================
+Algoritmo Seletion
+Tempo de execução: 0,055 ms
+
+========================================================
+Algoritmo Inserção
+Tempo de execução: 0,107 ms
+
+========================================================
+Algoritmo quickSort
+Tempo de execução: 0,004 ms
+
+========================================================
+Algoritmo MergeSort
+Tempo de execução: 0,006 ms
+
+========================================================
+
+
+              Tamanho do Vetor: 15000
+========================================================
+Algoritmo Bolha
+Tempo de execução: 0,442 ms
+
+========================================================
+Algoritmo Seletion
+Tempo de execução: 0,150 ms
+
+========================================================
+Algoritmo Inserção
+Tempo de execução: 0,212 ms
+
+========================================================
+Algoritmo quickSort
+Tempo de execução: 0,012 ms
+
+========================================================
+Algoritmo MergeSort
+Tempo de execução: 0,006 ms
+
+========================================================
+
+
+              Tamanho do Vetor: 20000
+========================================================
+Algoritmo Bolha
+Tempo de execução: 0,689 ms
+
+========================================================
+Algoritmo Seletion
+Tempo de execução: 0,155 ms
+
+========================================================
+Algoritmo Inserção
+Tempo de execução: 0,178 ms
+
+========================================================
+Algoritmo quickSort
+Tempo de execução: 0,009 ms
+
+========================================================
+Algoritmo MergeSort
+Tempo de execução: 0,009 ms
+
+========================================================
+
+
+              Tamanho do Vetor: 50000
+========================================================
+Algoritmo Bolha
+Tempo de execução: 4,396 ms
+
+========================================================
+Algoritmo Seletion
+Tempo de execução: 0,904 ms
+
+========================================================
+Algoritmo Inserção
+Tempo de execução: 1,036 ms
+
+========================================================
+Algoritmo quickSort
+Tempo de execução: 0,018 ms
+
+========================================================
+Algoritmo MergeSort
+Tempo de execução: 0,021 ms
+
+========================================================
+
+
+              Tamanho do Vetor: 100000
+========================================================
+Algoritmo Bolha
+Tempo de execução: 17,481 ms
+
+========================================================
+Algoritmo Seletion
+Tempo de execução: 3,642 ms
+
+========================================================
+Algoritmo Inserção
+Tempo de execução: 4,318 ms
+
+========================================================
+Algoritmo quickSort
+Tempo de execução: 0,037 ms
+
+========================================================
+Algoritmo MergeSort
+Tempo de execução: 0,036 ms
+
+========================================================
