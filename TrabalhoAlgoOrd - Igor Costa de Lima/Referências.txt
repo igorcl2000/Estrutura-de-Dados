@@ -1,0 +1,20 @@
+Igor Costa de Lima
+5ºP - CC
+Estrutura de Dados
+
+Referências para a realização do trabalho:
+
+O que o número retornado por System.currentTimeMillis representa?
+Disponível em: <https://pt.stackoverflow.com/questions/431058/o-que-o-n%C3%BAmero-retornado-por-system-currenttimemillis-representa>. Acesso em: 3 jul. 2022.
+
+Java.lang.System.currentTimeMillis() Method
+Disponível em: <https://www.tutorialspoint.com/java/lang/system_currenttimemillis.htm> Acesso em: 3 jul. 2022.
+
+Números Aleatórios em Java – A Classe java.util.Random
+Disponivel em:<https://www.devmedia.com.br/numeros-aleatorios-em-java-a-classe-java-util-random/26355> Acesso em 3 jul. 2022.
+
+Java System currentTimeMillis() Method
+Disponivel em:<https://www.javatpoint.com/post/java-system-currenttimemillis-method> Acesso em 3 jul. 2022.
+
+Utilizando a classe System
+Disponivel em:<https://www.devmedia.com.br/utilizando-a-classe-system/2661> Acesso em 3 jul. 2022. 
